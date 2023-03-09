@@ -1,11 +1,6 @@
 <resources>
     <string name="app_name">LoveTest</string>
-    <string name="main_title">Let\'s find out
-        your love type!</string>
+    <string name="main_title">당신의 사랑 유형을 알아 봐요!</string>
 
-    <string name="question">There were favorite flowers
-        in the flower base.
-        As time goes, the flowers
-        have all withered.
-        What are you going to do with that?</string>
+    <string name="question">당신의 화분에 가장 좋아하는 꽃이 있어요.\n시간이 지나면서, 그 꽃이 모두 시들어버렸어요.\n당신은 이 꽃을 어떻게 하실 건가요?</string>
 </resources>

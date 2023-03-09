@@ -24,7 +24,7 @@
             android:background="@drawable/selection"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:text="1. 버린다."
+            android:text="1. 꽃을 버린다."
             android:gravity="center"
             android:textSize="30dp"/>
 
@@ -35,7 +35,7 @@
             android:layout_weight="1"
             android:background="@drawable/selection"
             android:layout_marginBottom="10dp"
-            android:text="2. 물을 준다."
+            android:text="2. 꽃에 물을 준다."
             android:gravity="center"
             android:textSize="30dp"/>
 
@@ -46,7 +46,7 @@
             android:layout_weight="1"
             android:background="@drawable/selection"
             android:layout_marginBottom="10dp"
-            android:text="3. 가위로 자른다."
+            android:text="3. 꽃을 가위로 자른다."
             android:gravity="center"
             android:textSize="30dp"/>
 
@@ -57,13 +57,14 @@
             android:layout_weight="1"
             android:background="@drawable/selection"
             android:layout_marginBottom="10dp"
-            android:text="4. 꽃을 말린다."
+            android:text="4. 꽃을 말려 보관한다."
             android:gravity="center"
             android:textSize="30dp"/>
 
     </LinearLayout>
 
     <ImageView
+        android:id="@+id/btn_back"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:src="@drawable/previous"
