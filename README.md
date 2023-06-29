@@ -2,8 +2,7 @@
 ## 📖 프로젝트 소개
 | 메인 화면 | 질문 화면 | 답변 선택 화면 |
 |--|--|--|
-| ![메인 화면]((![image](https://github.com/Wise-99/LoveTest/assets/90273263/480788f4-0dff-4a25-86e3-3fae55e45908)
-)
+| ![메인 화면](https://github.com/Wise-99/LoveTest/assets/90273263/480788f4-0dff-4a25-86e3-3fae55e45908)
 | ![질문 화면](https://file.notion.so/f/s/7f4063c5-ee21-42c2-9c7f-9ccf2a9a8d15/Untitled.png?id=6b2bb482-5bf0-433e-b49c-4ededea2907d&table=block&spaceId=4fee607c-9fab-47df-96d0-8ba12808c88d&expirationTimestamp=1687417970002&signature=hsT_yO8rxJRNi236FDTRWYHMiFsl1KKYVIVTcB3EJoo&downloadName=Untitled.png) | ![답변 선택 화면](https://file.notion.so/f/s/196f1a58-6ded-41dd-8e0a-806d8523eaf2/Untitled.png?id=77da3aa1-ee28-48e7-bc93-e9406634246d&table=block&spaceId=4fee607c-9fab-47df-96d0-8ba12808c88d&expirationTimestamp=1687417975061&signature=G3THVHkoqJLpBVnV81v0tDlyrl8uFrGuXwnx08_FGlg&downloadName=Untitled.png) |
 
 
