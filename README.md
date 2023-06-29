@@ -11,13 +11,13 @@
 > -   이전 버튼이나 홈 버튼으로 화면 이동을 할 수 있습니다.
 
 ## 📄 주요 업무
--   Android jetpack의 Navigation Component를 이용하여 앱 화면 간 이동 기능 구현
--   여러 개의 Fragment를 활용하여 UI 구현
--   View binding을 이용하여 OnClickListener 구현
+- Kotlin 기본 문법 학습 및 활용
+- Android **jetpack**의 **Navigation Component**를 이용하여 Fragment 간 이동 기능 구현
+    - 화면 이동에 **animation** 삽입
+    - 화면 전환에 쓰이는 **Fragment Manager를 생략**
+    - **bundleOf()**를 사용하여 선택지 별로 다른 값을 결과 화면에 넘김
 
-## 💡 깨달은 점
--   Java 기반 언어이기에 구조가 비슷하지만 문법이 간단하여 코드 양을 줄일 수 있었음
--   navigation과 **Fragment**를 이용하여 앱 생명주기에 대해 다시 생각해 볼 수 있었음
+## 💡 문제 해결 과정
 -   코틀린은 findViewById() 대신 kotlin extension으로 바로 접근이 가능한 것이 장점이었으나 지원이 중단됨
     -   동일한 id일 경우 오류가 발생하거나, View 가 null 허용 여부를 알려주지 않는 경우가 있기 때문
-    -   따라서 **뷰 바인딩**을 이용하여 접근해야 함
+    -   **View Binding**을 이용하여 접근하여 해결
